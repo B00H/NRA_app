@@ -25,7 +25,7 @@ The data was compiled and published by the [National Institute on Money in State
 
 6 tabs: 
 
-* __Introduction__: background information and motivation for app,
+* Introduction: background information and motivation for app,
 
 * Overview: plots total contributions (both number and amount) across U.S. states,
 
@@ -43,7 +43,7 @@ The data was compiled and published by the [National Institute on Money in State
 
 To get an idea how much money the National Rifle Organization has been spending in election years 2000 to 2014 across all and in individual U.S. states. 
 
-To get an idea why Michael Bloomberg is investing a (significant amount of his private fortune)[http://www.nytimes.com/2014/04/16/us/bloomberg-plans-a-50-million-challenge-to-the-nra.html?_r=0] to support gun control measures.
+To get an idea why Michael Bloomberg is investing a [significant amount of his private fortune](http://www.nytimes.com/2014/04/16/us/bloomberg-plans-a-50-million-challenge-to-the-nra.html?_r=0) to support gun control measures.
 
 To ponder why the National Rifle Association has been spending so much more money in California than other U.S. States. 
 
@@ -56,5 +56,8 @@ To ponder why the National Rifle Association has been spending so much more mone
 ![plot of chunk plot](assets/fig/plot.png) 
 
 Go to the [app](http://noname.shinyapps.io/DataProducts).
+
+
+.
 
 
