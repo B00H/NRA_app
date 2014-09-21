@@ -49,15 +49,23 @@ To ponder why the National Rifle Association has been spending so much more mone
 
 ---
 
-## Still need an incentive? 
+## A teaser for the [app](http://noname.shinyapps.io/DataProducts)
 
 
+
+
+```r
+ggplot(USD_State, aes(x=state, y=USD)) + geom_bar(stat="identity") +  
+        xlab("US State") + ylab("NRA donations in millions US$") + 
+        theme(axis.text.x = element_text(color = "black", size = 12, angle = 45), 
+              axis.text.y = element_text(color = "black", size = 15),
+              axis.title.x = element_text(color = "black", size = 18),
+              axis.title.y = element_text(color = "black", size = 18, vjust = 1.5),
+              panel.grid.minor.x = element_blank(), panel.grid.major.x=element_blank())
+```
 
 ![plot of chunk plot](assets/fig/plot.png) 
 
-Go to the [app](http://noname.shinyapps.io/DataProducts).
 
-
-.
 
 
